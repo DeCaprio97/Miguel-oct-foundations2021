@@ -1,0 +1,29 @@
+html, 
+body{
+    background-color: #ffa500;
+    font-family: Arial, Halvetica, sans-serif;
+    font-size: 24px;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 8.5em;
+}
+
+a > img{
+    height: 20vh;
+    width: 25vh;
+}
+
+#header-nav {
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+a {
+    color:white;
+    text-decoration: none;
+}
